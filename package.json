@@ -1,0 +1,11 @@
+{
+  "name": "schedule-stream-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Johnson <bobby.johnson@gmail.com> (https://iamnotmyself.com/)",
+  "license": "MIT"
+}
